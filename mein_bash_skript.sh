@@ -10,3 +10,6 @@ done
 
 echo "Skript beendet"
 
+echo "$date"
+
+
