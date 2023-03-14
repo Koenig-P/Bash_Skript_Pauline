@@ -4,4 +4,4 @@ Hier liegt mein Bash Skript.
 
 - Author: Pauline Koenig
 
-Datum : 2023
+Datum : 2023-03-14
